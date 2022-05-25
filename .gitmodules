@@ -1,0 +1,9 @@
+[submodule "nt-app"]
+	path = nt-app
+	url = https://github.com/verri/nt-app
+[submodule "nt-io"]
+	path = nt-io
+	url = https://github.com/verri/nt-io
+[submodule "nt-vision"]
+	path = nt-vision
+	url = https://github.com/verri/nt-vision
